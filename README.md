@@ -1,2 +1,2 @@
-# Final-Assignment-IBM-Rodrinho82
-Hands-on Lab: Analyzing Historical Inventory/Revenue Data and Building a Dashboard
+<h1>Extracting and Visualizing Stock Data</h1>
+<h2>Description</h2>
